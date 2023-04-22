@@ -11,7 +11,7 @@
 <br>
 🔴 The E8 Collection is fully compiled into DLL Files which it means you can't edit my CSharp Codes , but It's not over You can change Game Design stuff.
 # E8 ADVENTURE
-🙂 WELCOME TO ANOTHER GAMES OF THE E8 SERIES
+🙂 WELCOME TO ANOTHER GAME OF THE E8 SERIES
 <br>
 💥 E8 Adventure , A Pixel Game YOU MUST COMPLETE  LEVEL IN THE COLORFUL WORLDS TO REACH YOUR HOME , BUT ITS NOT GOING TO BE EASY , THERE ARE SOME TRAP WHICH THEY CAN TAKE YOUR LIFE.
 <br>
